@@ -7,6 +7,4 @@ Template has two applications:
 1. Web Frontend (using VueJS)
 2. Restful API (using Python Flask)
 
-
-
 Web application framework for Startups
